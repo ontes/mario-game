@@ -20,7 +20,7 @@ Simple copy of popular old game Super Mario Bros. Created using LibGDX.
 - Music and sounds
 
 ## Download
-Compiled version can be downloaded [here](https://www.dropbox.com/s/iup8b50ly1mlrgh/mario.jar?dl=0) (.jar = Windows, Linux, Mac).
+You can download jar file under releases section.
 
 ## Notes
 - Game has no restart button.
